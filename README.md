@@ -41,7 +41,7 @@ Both curves drop sharply up to k = 4 and flatten after, so the segments hold up 
 
 **Segments (centers, all 330 members assigned)**
 
-| | A | B | C | D |
+| | A: Testing the Waters | B: Solo Grinders | C: Big Spenders | D: Loyal Veterans |
 |---|---|---|---|---|
 | Members | 70 | 109 | 91 | 60 |
 | Age | 27 | 33 | 43 | 64 |
@@ -54,13 +54,13 @@ Both curves drop sharply up to k = 4 and flatten after, so the segments hold up 
 | Net if given credit | +$185 | −$445 | −$895 | −$45 |
 | Gets credit | Yes | No | No | No |
 
-New member (age 30, 4 visits, 42 minutes, 1 class, 5 months, $10 extras): segment A, gets the credit.
+New member (age 30, 4 visits, 42 minutes, 1 class, 5 months, $10 extras): Testing the Waters, gets the credit.
 
 **Monthly net from the credit**
 
 | | Members getting credit | Monthly net |
 |---|---|---|
 | Baseline: credit to everyone | 330 | −$1,200 |
-| v1: credit to segment A only | 70 | +$185 |
+| v1: credit to Testing the Waters only | 70 | +$185 |
 
 Targeting improves the monthly net by $1,385, about $16,600 a year.
